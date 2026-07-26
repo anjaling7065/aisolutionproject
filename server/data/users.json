@@ -1,0 +1,33 @@
+[
+  {
+    "id": "id_9ebbbv7ik",
+    "fullName": "Stellar Administrator",
+    "email": "admin@stellar.ai",
+    "password": "$2b$10$HnBx8rsfJduUgb3fEd0f5.6g3j8t5SyQHFQp.QUD6wH49TZrH9kZi",
+    "role": "admin",
+    "company": "Stellar AI Corp",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+    "phone": "+1 (555) 0199",
+    "createdAt": "2026-07-20T15:41:19.620Z"
+  },
+  {
+    "id": "id_mm7qarkek",
+    "fullName": "annnu",
+    "email": "annu@yahoo.com",
+    "password": "$2b$10$A8oQnYrQ0JA.R4M8JRYa8OJypOikAqYEBtwm3fNfjxWVosgnqc2Ki",
+    "role": "user",
+    "company": "annutech",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-07-26T16:27:27.245Z"
+  },
+  {
+    "id": "id_pg0ykn4cl",
+    "fullName": "ankk",
+    "email": "aksh@gmail.com",
+    "password": "$2b$10$B8FwjvaHq7q5Ba8X/Cimd.pLG4WD8Fc/kmK7TlQ54H6J0ggj2iU7i",
+    "role": "user",
+    "company": "ajhui",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-07-26T16:32:11.287Z"
+  }
+]

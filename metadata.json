@@ -1,0 +1,6 @@
+{
+  "name": "Stellar AI",
+  "description": "Unlock the future with Stellar AI - A premium glassmorphic, interactive portfolio showcasing next-generation enterprise AI Solution Projects, live WebGL sandboxes, and pipeline simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
